@@ -3,5 +3,5 @@ Este es un Programa para generar Numeros Telefonicos (USA) Pasandole de Argument
 
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-<img src=".github/PhoneGen.jpg"/>
+<img src="PhoneGen.jpg"/>
 </p>
